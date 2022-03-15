@@ -1,2 +1,3 @@
-# Crop-phenotyping-Hyperspectral-Data-Analysis-Pipeline
+# Hyperspectral-Data-Analysis for Crop-phenotyping-Pipeline
 In-Field Crop Phenotyping Using Hyperspectral Imaging for detection of optimum harvest time.
+This repository contains the codebase for hyperspectral image processing pipeline for extraction of plant area as well as generation and evaluation of vegetation indices (HVI). For statistical analysis the R pipeline calculates relevant descriptive statistics, conducts one-way ANOVA, performs Pearson correlation test, Principal component analysis and Least Absolute Shrinkage and Selection Operator (LASSO) regression analysis to find potential predictors (HVI) of crop biophysical traits.
